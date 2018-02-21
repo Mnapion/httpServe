@@ -11,7 +11,7 @@ Other functions:</br>
   127.0.0.1:8080/login To login<br>
   127.0.0.1:8080/signup To signup<br>
   
-#What the server can do now:
+# What the server can do now:
   return certain resources and answer certain requests
 
-#By Lac Jolime Lee 2018.2.21
+# By Lac Jolime Lee 2018.2.21
